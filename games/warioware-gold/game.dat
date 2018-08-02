@@ -1,0 +1,9 @@
+title = "Warioware Gold"
+description = "WarioWare Gold is an action video game developed by Intelligent Systems and published by Nintendo for the Nintendo 3ds.It is the first WarioWare for the 3ds"
+needs_system_files = true
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001D1C00"
+region = "eur"
+release_date = "2018-07-27"
